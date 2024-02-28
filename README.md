@@ -1,0 +1,2 @@
+# dappwalletconnectoor
+ `DAppWalletConnectoor` is an `npx` starter template that simplifies the setup of a WalletConnect-integrated dApp. With just one command, you can initiate your project and seamlessly integrate with WalletConnect v2 and Web3Modal 📲. This project is a fork of the original repository, aimed at not only maintaining its robust functionality but also significantly enhancing the user experience (UX) to create a more intuitive and engaging interaction flow for developers.
