@@ -1,6 +1,6 @@
 {
 	"name": "dappwalletconnectoor",
-	"version": "0.7.1",
+	"version": "0.7.1.1",
 	"description": "Effortlessly bootstrap your WalletConnect-integrated Web3 dApp with DAppWalletConnectoor using just one command. Designed to streamline the setup process, this starter template equips developers with a comprehensive toolkit for building decentralized applications seamlessly integrated with WalletConnect, enhancing user connectivity and interaction.",
 	"keywords": [
 		"dappwalletconnectoor",
